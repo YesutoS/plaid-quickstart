@@ -5,5 +5,3 @@ gem 'sinatra'
 gem "dotenv", "~> 2.7"
 
 gem "plaid", "= 14.10.0"
-
-#test
